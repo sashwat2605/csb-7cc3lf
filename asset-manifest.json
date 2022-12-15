@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "https://sashwat2605.github.io/csb-7cc3lf/static/js/main.914fe783.chunk.js",
+    "main.js.map": "https://sashwat2605.github.io/csb-7cc3lf/static/js/main.914fe783.chunk.js.map",
+    "runtime-main.js": "https://sashwat2605.github.io/csb-7cc3lf/static/js/runtime-main.698d1b2c.js",
+    "runtime-main.js.map": "https://sashwat2605.github.io/csb-7cc3lf/static/js/runtime-main.698d1b2c.js.map",
+    "index.html": "https://sashwat2605.github.io/csb-7cc3lf/index.html",
+    "precache-manifest.2d6ff2369acc5df6f5bc0d17ab9a31ee.js": "https://sashwat2605.github.io/csb-7cc3lf/precache-manifest.2d6ff2369acc5df6f5bc0d17ab9a31ee.js",
+    "service-worker.js": "https://sashwat2605.github.io/csb-7cc3lf/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.698d1b2c.js",
+    "static/js/main.914fe783.chunk.js"
+  ]
+}
